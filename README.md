@@ -34,4 +34,4 @@ This project implements an optimized version of the algorithm that improves perf
 
 ---
 
-Built with ❤️ by [Ezihe Godswill](https://github.com/gzkdev)
+Built with ❤️ by [Godswill Ezihe](https://github.com/gzkdev)
