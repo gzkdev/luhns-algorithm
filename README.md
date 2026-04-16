@@ -1,8 +1,8 @@
-# Luhn's Algorithm
+# Luhn Algorithm
 
 ## Overview
 
-Luhn's algorithm, also known as the **"modulus 10" algorithm**, is a simple checksum formula used to validate a variety of identification numbers, most notably credit card numbers. It is designed to protect against accidental errors such as mistyped digits.
+Luhn algorithm, also known as the **"modulus 10" algorithm**, is a simple checksum formula used to validate a variety of identification numbers, most notably credit card numbers. It is designed to protect against accidental errors such as mistyped digits.
 
 ## How it works
 
